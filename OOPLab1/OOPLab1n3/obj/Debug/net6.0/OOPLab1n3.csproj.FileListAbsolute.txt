@@ -1,0 +1,14 @@
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\bin\Debug\net6.0\OOPLab1n3.exe
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\bin\Debug\net6.0\OOPLab1n3.deps.json
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\bin\Debug\net6.0\OOPLab1n3.runtimeconfig.json
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\bin\Debug\net6.0\OOPLab1n3.dll
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\bin\Debug\net6.0\OOPLab1n3.pdb
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\OOPLab1n3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\OOPLab1n3.AssemblyInfoInputs.cache
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\OOPLab1n3.AssemblyInfo.cs
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\OOPLab1n3.csproj.CoreCompileInputs.cache
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\OOPLab1n3.dll
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\refint\OOPLab1n3.dll
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\OOPLab1n3.pdb
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\OOPLab1n3.genruntimeconfig.cache
+C:\Users\dasha\source\repos\OOPlab1\OOPLab1n3\obj\Debug\net6.0\ref\OOPLab1n3.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OOPlab3.props" />
+</Project>
